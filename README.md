@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 😄 I'm Maye Akimoto
 - 🔭 I am currently working as a front-end programmer in Guangzhou
-- 🌱 I am currently learning Android and IOS related development skills
+- 🌱 I am currently learning Android and Windows related development skills
