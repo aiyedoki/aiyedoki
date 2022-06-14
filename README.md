@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Maye Akimoto
 <!--
 **aiyedoki/aiyedoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently working as a front-end programmer in Guangzhou
+- 🌱 I am currently learning Android and IOS related development skills
