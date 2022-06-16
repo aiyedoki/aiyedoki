@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 I'm Maye Akimoto
-- 🔭 I am currently working as a front-end programmer in Guangzhou
-- 🌱 I am currently learning Android and Windows related development skills
